@@ -1,6 +1,6 @@
-# Business_Performance-Analysis--Python
+Business Performance Analysis Using Python & Pandas
 Business Performance Analysis using Python and Pandas. Analyzed Revenue, Profit, Margin, and Product Performance to generate Business Insights and recommendations.
-# Business Performance Analysis Using Python & Pandas
+
 ## Business Problem
 
 Management wants to identify:
